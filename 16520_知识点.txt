@@ -1,0 +1,4 @@
+git reflog 可以列出各节点的list
+创建里程碑：
+在github网站上，进入项目页面，release选项，发布版本。
+创建分支，merge进master分支
